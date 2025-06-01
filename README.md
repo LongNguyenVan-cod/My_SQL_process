@@ -6,4 +6,6 @@
 ## Code and Method
   Ngôn ngữ truy vấn của MySQL <br />
   Áp dụng PERCENT_RANK() để tính điểm R, F, M trên thang điểm 5 của từng khách hàng <br />
-  Kết hợp với RankRFM.csv để xếp hạng phân khúc khách hàng theo tổ hợp điểm RFM <br />![Screenshot 2025-06-01 154551](https://github.com/user-attachments/assets/5fa31068-f47b-4d4b-bf87-51cdea8f62d2)
+  Kết hợp với RankRFM.csv để xếp hạng phân khúc khách hàng theo tổ hợp điểm RFM <br />
+  Thu được 11 nhóm khách hàng <br />
+  ![Screenshot 2025-06-01 154551](https://github.com/user-attachments/assets/5fa31068-f47b-4d4b-bf87-51cdea8f62d2)
